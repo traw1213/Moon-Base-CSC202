@@ -1,0 +1,10 @@
+C:\Users\travi\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.exe.config
+C:\Users\travi\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.exe
+C:\Users\travi\source\repos\MoonBase\MoonBase\bin\Debug\MoonBase.pdb
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.Mainform.resources
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.Properties.Resources.resources
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.GenerateResource.cache
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.exe
+C:\Users\travi\source\repos\MoonBase\MoonBase\obj\Debug\MoonBase.pdb
